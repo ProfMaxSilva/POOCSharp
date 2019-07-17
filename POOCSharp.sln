@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgSlideAula", "ProgSlideAula\ProgSlideAula.csproj", "{3C91A89A-4C04-4BE3-A662-1BA6E5A6EFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo.ConsoleAPP", "OlaMundo.ConsoleAPP\OlaMundo.ConsoleAPP.csproj", "{6FF3CC37-F5D9-405B-948F-9520A2B64B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C91A89A-4C04-4BE3-A662-1BA6E5A6EFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C91A89A-4C04-4BE3-A662-1BA6E5A6EFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C91A89A-4C04-4BE3-A662-1BA6E5A6EFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C91A89A-4C04-4BE3-A662-1BA6E5A6EFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF3CC37-F5D9-405B-948F-9520A2B64B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF3CC37-F5D9-405B-948F-9520A2B64B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF3CC37-F5D9-405B-948F-9520A2B64B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF3CC37-F5D9-405B-948F-9520A2B64B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668D88E2-08BA-435A-AB15-93BD8C1AA3D1}
+	EndGlobalSection
+EndGlobal
