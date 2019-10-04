@@ -1,20 +1,21 @@
 ﻿using System;
 
-namespace ProgSlideAula
+namespace ProgSlideAulas.OperadoresAritmeticos
 {
-    class Prog1_1
+
+    public class Prog1
     {
         //static int Main(string[] args)
         //{
-        //    string respostaDigitada;
+        //    String respostaDigitada;
         //    int valorInteiro;
         //    double valorReal;
 
-        //    Console.WriteLine("Digite um valor Inteiro");
+        //    Console.WriteLine("Digite o dado Inteiro");
         //    respostaDigitada = Console.ReadLine();
         //    valorInteiro = int.Parse(respostaDigitada);
 
-        //    Console.WriteLine("Digite um valor real");
+        //    Console.WriteLine("Digite o dado Real");
         //    respostaDigitada = Console.ReadLine();
         //    valorReal = double.Parse(respostaDigitada);
 
