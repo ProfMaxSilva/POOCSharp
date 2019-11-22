@@ -6,7 +6,7 @@ namespace ProgSlideAulas.Heranca2
     {
         public int Codigo { get; set; }
         public string Nome { get; set; }
-        //se tirar esse contrutor da erro nos filhos 
+        //se tirar esse construtor da erro nos filhos 
         //que nao tem a mesma assinatura no seu contrutor
         //public Figura()
         //{
@@ -16,7 +16,7 @@ namespace ProgSlideAulas.Heranca2
         {
             this.Codigo = codigo;
         }
-        /* se acrescentar um novo contrutor na classe figura noa da erro nos filho
+        /* se acrescentar um novo contrutor na classe figura não da erro nos filho
          caso o mesmo implememe pelo ao menos um metodo do pai*/
         public Figura(String nome)
         {
